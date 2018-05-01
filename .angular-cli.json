@@ -19,6 +19,7 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "re",
       "styles": [
+        "../node_modules/open-iconic/font/css/open-iconic-bootstrap.scss",
         "styles.scss"
       ],
       "scripts": [],

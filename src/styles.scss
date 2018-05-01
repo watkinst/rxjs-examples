@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1rem;
+}
+
+.btn-primary {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+
