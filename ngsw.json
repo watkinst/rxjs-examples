@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "https://watkinst.github.io/rxjs-examples/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://watkinst.github.io/rxjs-examples/favicon.ico",
+        "https://watkinst.github.io/rxjs-examples/index.html",
+        "https://watkinst.github.io/rxjs-examples/inline.318b50c57b4eba3d437b.bundle.js",
+        "https://watkinst.github.io/rxjs-examples/main.6735b35452512cd6da79.bundle.js",
+        "https://watkinst.github.io/rxjs-examples/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
+        "https://watkinst.github.io/rxjs-examples/styles.7474271ed9ddc5c70848.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://watkinst.github.io/rxjs-examples/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
+    "https://watkinst.github.io/rxjs-examples/main.6735b35452512cd6da79.bundle.js": "2b3be010c6f3198f033c0597f8eef6bafa58851a",
+    "https://watkinst.github.io/rxjs-examples/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
+    "https://watkinst.github.io/rxjs-examples/styles.7474271ed9ddc5c70848.bundle.css": "a4918f42abff9a266bc93cebefd003bbec2cb683",
+    "https://watkinst.github.io/rxjs-examples/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://watkinst.github.io/rxjs-examples/index.html": "e7688adcc0693cca3e486333a7907afdd0d37ce7"
+  }
+}
